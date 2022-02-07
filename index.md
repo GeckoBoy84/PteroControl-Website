@@ -8,8 +8,8 @@ You can [invite](https://discord.com/api/oauth2/authorize?client_id=939836646914
 
 ### FAQ
 
-Will @PteroControl be open source?
+###### Will @PteroControl be open source?
 It is planned, but will not release until we are happy with the beta testing of the public bot.
 
-Will PteroControl support Panel 2.0?
+###### Will PteroControl support Panel 2.0?
 Most likely
